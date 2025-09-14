@@ -1,4 +1,3 @@
-
 # Document Q&A Agent
 
 This project is a command-line-based Question & Answering agent that uses a large language model to answer questions about a collection of PDF documents.
